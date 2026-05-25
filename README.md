@@ -14,4 +14,4 @@ The program takes a name as input, appends "CE-ESY",
 stores it in a circular buffer, then reads and prints it.
 
 ## Author
-Your Name
+majd ahmed hasan
